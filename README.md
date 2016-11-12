@@ -6,7 +6,7 @@ This is where I keep ideas and findings relevant to software design.
 
 - [Common Cloud Application Setup](https://github.com/jonocairns/learning/blob/master/cloud.md) - This is some common architecture patterns I've seen in my experience that have worked quite well and work with a wide range of requirements. 
 
-- Great sites to learn and keep up to date
+- [Reading/Listening/Watching](https://github.com/jonocairns/learning/blob/master/media.md)
 
 - Tools
 
